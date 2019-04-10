@@ -50,7 +50,7 @@ export function fetchUserPurchases() {
             {
                 _id: 3,
                 total: 16.40,
-                orderNumber: 'ADFasdlfkjwe',
+                orderNumber: 'AasdredDFasdlfkjwe',
                 orderDate: new Date().toDateString,
                 creditCard: '-0000',
                 user: {
@@ -61,7 +61,7 @@ export function fetchUserPurchases() {
             {
                 _id: 4,
                 total: 19.40,
-                orderNumber: 'A0048248343',
+                orderNumber: 'sdersd3',
                 orderDate: new Date().toDateString,
                 creditCard: '-0000',
                 user: {
@@ -72,7 +72,7 @@ export function fetchUserPurchases() {
             {
                 _id: 5,
                 total: 19.40,
-                orderNumber: 'A0048248343',
+                orderNumber: 'A0048sertsd248343',
                 orderDate: new Date().toDateString,
                 creditCard: '-0000',
                 user: {
@@ -83,7 +83,7 @@ export function fetchUserPurchases() {
             {
                 _id: 6,
                 total: 19.40,
-                orderNumber: 'A0048248343',
+                orderNumber: 'A004e442348248343',
                 orderDate: new Date().toDateString,
                 creditCard: '-0000',
                 user: {
