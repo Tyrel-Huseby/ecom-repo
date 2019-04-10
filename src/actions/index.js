@@ -23,5 +23,6 @@ export {
     setPurchaseDetail,
 
     fetchShopCategories,
-    fetchShopProducts
+    fetchShopProducts,
+    filterProductsWithCategoryId
 };
