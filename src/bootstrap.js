@@ -27,7 +27,6 @@ function main() {
         <Layout>
           <Switch>
             <Route path='/' exact component={Signin}/>
-
             <Route path='/signin' exact component={Signin}/>
             <Route path='/signup' exact component={Signup}/>
 
@@ -40,7 +39,7 @@ function main() {
             <Route path='/information/payment' exact component={Payment}/>
           </Switch>
         </Layout>
-        </Router>
+      </Router>
     </Provider>
     , document.querySelector('.app-wrapper'));
 }
